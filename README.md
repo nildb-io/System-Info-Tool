@@ -1,6 +1,7 @@
 # ⚡ System-Info-Tool
 
-> Lightweight realtime system monitoring utility built with JavaFX  
+> Open-Source Project
+> Lightweight realtime system monitoring utility built with JavaFX for X64 based systems 
 > Inspired by terminal aesthetics, neofetch, and low-level system telemetry.
 
 ![Preview](screenshots/preview.png)
@@ -90,3 +91,4 @@ System-Info-Tool/
 
 ---
 Devoloped and maintained by Nilarya Roy
+For Download for Windows -> Go to release folder -> click on SysinfoTool-1.0.exe [It will download locally on your PC]
