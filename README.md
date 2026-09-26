@@ -90,5 +90,5 @@ System-Info-Tool/
 └── pom.xml
 
 ---
-Devoloped and maintained by Nilarya Roy
+Developed and maintained by Nilarya Roy
 For Download for Windows -> Go to release folder -> click on SysinfoTool-1.0.exe [It will download locally on your PC]
